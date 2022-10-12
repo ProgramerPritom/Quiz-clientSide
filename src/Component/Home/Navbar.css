@@ -1,0 +1,20 @@
+#navbar-area{
+    height: 105px !important;
+}
+
+.Logo-img{
+    margin-left: 50px;
+    
+}
+.signup-btn{
+    padding: 5px 15px 5px 15px !important;
+    border: 2px solid #e43f3f;
+    border-radius: 30px !important;
+    cursor: pointer;
+    background-color: #DE5959;
+    color: white;
+    font-weight: 600;
+}
+.menu li{
+    font-weight: 600 !important;
+}

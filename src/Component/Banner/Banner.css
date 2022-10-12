@@ -1,0 +1,45 @@
+.banner-area{
+    height: 630px;
+    position: relative;
+    background: url(../Banner/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.banner-gradiant{
+    position: absolute;
+    background-image: linear-gradient(to right, #ecc5c5, #e74c4c);
+    height: 100%;
+    width: 100%;
+    opacity: .2;
+}
+.take-text{
+    color: white;
+    border: 2px solid #DF6666;
+    border-radius: 30px;
+    background-color: #e74c4c;
+    font-weight: bold;
+    transition: .4s all ease-in-out;
+}
+.take-text:hover{
+    background-color: transparent;
+    color: black;
+}
+.create-text{
+    border: 2px solid #DF6666;
+    border-radius: 30px;
+    color: black;
+    font-weight: bold;
+    transition: .4s all ease-in-out;
+}
+.create-text:hover{
+    background-color: #e74c4c;
+    color: white;
+}
+
+
+
+
+
+
+
